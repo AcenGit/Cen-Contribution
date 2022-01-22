@@ -1,2 +1,2 @@
-# Cen.Tezos
+# Cen
 A payment platform powered by Tezos
